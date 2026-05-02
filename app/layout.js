@@ -13,9 +13,9 @@ const dmSans = DM_Sans({
 });
 
 export const metadata = {
-  title: "Mundial Figuritas — Sumate al equipo",
+  title: "Entrega Figuritas Mundial 2026",
   description:
-    "Dejá tu email y recibí la bienvenida mundialista. Sistema de figuritas.",
+    "Dejá tu mail para recibir los enlaces a tus figuritas y el material de tu compra.",
 };
 
 export default function RootLayout({ children }) {
